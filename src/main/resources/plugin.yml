@@ -1,0 +1,6 @@
+name: Lepus
+version: '${project.version}'
+main: me.ialdo80.Lepus
+api-version: 1.16
+authors: [ iAldo80 ]
+description: A /lepus command!
